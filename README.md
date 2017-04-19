@@ -1,2 +1,1 @@
-# returnly
-SQL Challenge
+# SQL Challenge
